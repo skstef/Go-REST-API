@@ -1,0 +1,9 @@
+POST http://localhost:8080/events
+content-type: application/json
+
+{
+	"name":"Event 1",
+	"description":"Lorem ipsum",
+	"location":"Republic of Moldova",
+	"dateTime":"2025-04-01T15:30:00.000Z"
+}
