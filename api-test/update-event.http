@@ -1,0 +1,9 @@
+PUT http://localhost:8080/events/2
+content-type: application/json
+
+{
+	"name":"Event 2",
+	"description":"Lorem ipsum 2",
+	"location":"Republic of Moldova",
+	"dateTime":"2025-04-01T15:30:00.000Z"
+}
