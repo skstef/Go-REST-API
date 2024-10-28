@@ -1,0 +1,2 @@
+POST http://localhost:8080/events/8/cancel
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkZHJlc3MyQGV4YW1wbGUuY29tIiwiZXhwIjoxNzMwMTYwNDg1LCJ1c2VySWQiOjJ9._qUzh-pSmu2FehokBU1zUeCrhIczX2QgUXsIS9zdHo0
